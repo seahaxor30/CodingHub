@@ -2,7 +2,3 @@
 
 
 ## Subheading
-
-```
-code goesm here
-```
